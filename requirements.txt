@@ -1,0 +1,7 @@
+# Packages needed to run QF600_Pairs_Trading_Final_executed.ipynb
+pandas
+numpy
+scikit-learn
+lets-plot
+ipython
+jupyter
